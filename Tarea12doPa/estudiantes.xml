@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estudiantes>
+    <estudiante ci="1316498094">
+        <nombre>Bryan Arce Ponce</nombre>
+        <direccion>Las Marías</direccion>
+        <telefono>0985623475</telefono>
+        <correo>bryarce09@gmail.com</correo>
+        <curso>5to Nivel</curso>
+        <paralelo>A</paralelo>
+    </estudiante>
+    <estudiante ci="1301234537">
+        <nombre>Alexis Cardenas Gallego</nombre>
+        <direccion>Barrio Cuba</direccion>
+        <telefono>0865231452</telefono>
+        <correo>alexiscarde@gmail.com</correo>
+        <curso>5to Nivel</curso>
+        <paralelo>B</paralelo>
+    </estudiante>
+    <estudiante ci="1301324538">
+        <nombre>Emilia Barre Sierra</nombre>
+        <direccion>Colorado</direccion>
+        <telefono>0986541236</telefono>
+        <correo>emiliabarr@gmail.com</correo>
+        <curso>5to Nivel</curso>
+        <paralelo>C</paralelo>
+    </estudiante>
+    <estudiante ci="1301414539">
+        <nombre>Ian Duarte Márquez</nombre>
+        <direccion>La pradera</direccion>
+        <telefono>0982653125</telefono>
+        <correo>ianduart@gmail.com</correo>
+        <curso>5to Nivel</curso>
+        <paralelo>A</paralelo>
+    </estudiante>
+    <estudiante ci="1301504540">
+        <nombre>Isabel Lucas Merchán</nombre>
+        <direccion>Miraflores</direccion>
+        <telefono>0953287435</telefono>
+        <correo>isalucas@gmail.com</correo>
+        <curso>5to Nivel</curso>
+        <paralelo>B</paralelo>
+    </estudiante>
+    <estudiante ci="1301594541">
+        <nombre>Miguel Lopez Pereira</nombre>
+        <direccion>Sol Naciente</direccion>
+        <telefono>0953687412</telefono>
+        <correo>miguelopez@gmail.com</correo>
+        <curso>5to Nivel</curso>
+        <paralelo>C</paralelo>
+    </estudiante>
+    <estudiante ci="1301684542">
+        <nombre>Diana Ordoñez Portugas</nombre>
+        <direccion>Barrio Cuba</direccion>
+        <telefono>0985632478</telefono>
+        <correo>dianadecub@gmail.com</correo>
+        <curso>5to Nivel</curso>
+        <paralelo>A</paralelo>
+    </estudiante>
+    <estudiante ci="1301774543">
+        <nombre>Noah Flores Belmonte</nombre>
+        <direccion>Bellavista</direccion>
+        <telefono>0986543215</telefono>
+        <correo>noahflor@gmail.com</correo>
+        <curso>5to Nivel</curso>
+        <paralelo>B</paralelo>
+    </estudiante>
+    <estudiante ci="1301864544">
+        <nombre>Gladys Guerrero Cobos</nombre>
+        <direccion>San Antonio</direccion>
+        <telefono>0958328659</telefono>
+        <correo>gladyscobos@gmail.com</correo>
+        <curso>5to Nivel</curso>
+        <paralelo>C</paralelo>
+    </estudiante>
+    <estudiante ci="1301954545">
+        <nombre>Teodoro Chica Castilla</nombre>
+        <direccion>Miraflores</direccion>
+        <telefono>0952438756</telefono>
+        <correo>teodorochic@gmail.com</correo>
+        <curso>5to Nivel</curso>
+        <paralelo>A</paralelo>
+    </estudiante>
+</estudiantes>
